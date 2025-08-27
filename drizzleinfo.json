@@ -1,0 +1,6 @@
+{
+  "drizzle-link": {
+    "windows": "https://github.com/SlimeCubed/Drizzle/releases/download/v0.2.7.1/Drizzle.base.Release.win-x64.zip",
+    "linux": "https://github.com/SlimeCubed/Drizzle/releases/download/v0.2.7.1/Drizzle.base.Release.linux-x64.zip"
+  }
+}

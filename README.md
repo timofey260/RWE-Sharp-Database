@@ -1,2 +1,2 @@
 # RWE-Sharp-Database
-RWE# database for installing mods and pack to rwe#
+Database for installing mods and packs to RWE#
